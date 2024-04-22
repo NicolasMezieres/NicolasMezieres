@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I'm Nicolas Mezieres
+- 🌱 I'm currently learning JS, NodeJS, MySQL, NextJS
+- 👯 I'm currently looking for an internship as a web developper
+- 📫 How to reach me : nicolas.mezieres73@gmail.com
