@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Nicolas Mezieres
 - 🌱 I'm currently learning JS, NodeJS, MySQL, NextJS
-- 👯 I'm currently looking for an internship as a web developper full stack js
+- 👯 I am currently seeking a company for an apprenticeship contract as an Application Designer and Developer.
 - 📫 How to reach me : nicolas.mezieres73@gmail.com
